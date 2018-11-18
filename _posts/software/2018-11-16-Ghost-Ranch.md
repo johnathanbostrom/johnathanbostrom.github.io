@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Ghost Ranch New Mexico
+permalink: /posts/software/2018-11-16-Ghost-Ranch.html
 ---
 A few pictures from our stay in Ghost Ranch
 
