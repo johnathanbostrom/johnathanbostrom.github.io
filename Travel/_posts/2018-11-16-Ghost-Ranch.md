@@ -1,6 +1,6 @@
 ---
 layout: post
-category: software
+category: travel
 title: Ghost Ranch New Mexico
 ---
 A few pictures from our stay in Ghost Ranch
