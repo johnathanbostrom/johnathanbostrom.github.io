@@ -8,7 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+![pic1]({{ site.baseurl }}/images/Elm_logo.png)
+![pic2]({{ site.baseurl }}/images/haskellLogo.png)
 
 ### Contact me
 
