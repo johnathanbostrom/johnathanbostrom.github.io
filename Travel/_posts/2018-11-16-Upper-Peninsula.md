@@ -1,5 +1,6 @@
 ---
 layout: post
+category: travel
 title: The Upper Peninsula
 ---
 A few pictures from our camping trip
