@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Upper Peninsula
-permalink: /posts/software/2018-11-16-Upper-Peninsula.html
 ---
 A few pictures from our camping trip
 
